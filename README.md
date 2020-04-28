@@ -1,4 +1,4 @@
-# Getting Started
+## Getting Started
 
 用Node.js + Express框架練習的作品，內容主要為餐廳清單及其詳細資訊。
 
