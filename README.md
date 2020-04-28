@@ -1,4 +1,3 @@
-# restaurant_proj
 ## 我的餐廳清單專案
 
 ### Getting Started
