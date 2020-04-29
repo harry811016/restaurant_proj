@@ -12,4 +12,4 @@
 ## Built With & Tools
 * Express framework
 * Express-handlebars
-* Static Files include (Bootstrap, jQuery, Popper.js and fontawesome)
+* Static Files include Bootstrap, jQuery, Popper.js and fontawesome
